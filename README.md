@@ -37,6 +37,8 @@ GLSL er shading tungumál byggt á C forritunarmálinu. Málið var gert af Open
 **4. Búðu til 3D hlut frá grunni að eigin vali með áferð (lit eða texture, ljós og skugga). Þú
 getur valið um að vinna með WebGL eða Three.js. Notaðu e. transform fylkin
 (translation, rotation, scale). Skrifaðu íslenskar skýringar með kóðanum.**  
+Ég er búinn að vera í tvær vikur núna að reyna að skilja þetta en ég bara er ekki að ná þessu..  
+Fylgdi þessu tutorial hérna: https://www.youtube.com/watch?v=3yLL9ADo-ko&list=PLjcVFFANLS5zH_PeKC6I8p0Pt1hzph_rt&index=2 en ég fæ ekki neitt til að virka. Skilningurinn minn á þessu er ekki næstum nógu mikill til að púsla saman þessu verkefni.
 
 
 
